@@ -1,0 +1,264 @@
+
+        <div class="palette">
+
+ <!-- Team ----------------------------------------------------------------------------------------------------- Name -->
+
+<div class="flex flex-col md:flex-row items-center justify-between gap-4">
+  <!-- Left side with symbol and text -->
+  <div class="flex items-center w-full md:w-auto">
+    <span class="symbol" style="font-family: 'Racing Sans One', sans-serif; font-size: 18px; color: #1F2937;"> </span>
+    <span style="font-family: 'Racing Sans One', sans-serif; font-size: 18px; color: #1F2937; margin-left: 0.5rem;">Atlas LAX</span>
+  </div>
+</div>
+
+
+ <!-- END   -------------------------------------------------------------------------------------------------  Team Name -->
+            
+            <div class="text-top colorway-label" style="background-color: #A6192E; color: white; padding: 5px; border-radius: 18px;">Color Way-107</div>
+            <div class="color">
+                <img src="a107_ .jpg" alt=" ">
+            </div>
+            <div class="text-bottom">
+                <span style="font-size: 12px; color: #A6192E;">187c</span>
+                <span style="font-size: 12px; color: gray;">| 9163c </span>
+            </div>
+        </div>
+
+
+
+
+
+
+        <div class="palette">
+
+ <!-- Team ----------------------------------------------------------------------------------------------------- Name -->
+
+<div class="flex flex-col md:flex-row items-center justify-between gap-4">
+  <!-- Left side with symbol and text -->
+  <div class="flex items-center w-full md:w-auto">
+    <span class="symbol" style="font-family: 'Racing Sans One', sans-serif; font-size: 18px; color: #1F2937;"> </span>
+    <span style="font-family: 'Racing Sans One', sans-serif; font-size: 18px; color: #1F2937; margin-left: 0.5rem;">Atlas LAX</span>
+  </div>
+</div>
+
+
+ <!-- END   -------------------------------------------------------------------------------------------------  Team Name -->
+            
+            <div class="text-top colorway-label" style="background-color: #D8CFB9; color: white; padding: 5px; border-radius: 18px;">Color Way-108</div>
+            <div class="color">
+                <img src="a108_ .jpg" alt=" ">
+            </div>
+            <div class="text-bottom">
+                <span style="font-size: 12px; color: #D8CFB9;">9163c</span>
+                <span style="font-size: 12px; color: gray;">| 9163c | 187c  </span>
+            </div>
+        </div>
+
+
+
+
+
+
+        <div class="palette">
+
+ <!-- Team ----------------------------------------------------------------------------------------------------- Name -->
+
+<div class="flex flex-col md:flex-row items-center justify-between gap-4">
+  <!-- Left side with symbol and text -->
+  <div class="flex items-center w-full md:w-auto">
+    <span class="symbol" style="font-family: 'Racing Sans One', sans-serif; font-size: 18px; color: #1F2937;"> </span>
+    <span style="font-family: 'Racing Sans One', sans-serif; font-size: 18px; color: #1F2937; margin-left: 0.5rem;">Atlas LAX</span>
+  </div>
+</div>
+
+
+ <!-- END   -------------------------------------------------------------------------------------------------  Team Name -->
+            
+            <div class="text-top colorway-label" style="background-color: #000000; color: white; padding: 5px; border-radius: 18px;">Color Way-109</div>
+            <div class="color">
+                <img src="a109_ .jpg" alt=" ">
+            </div>
+            <div class="text-bottom">
+                <span style="font-size: 12px; color: #000000;">Black</span>
+                <span style="font-size: 12px; color: gray;">| 468c | 2935c </span>
+            </div>
+        </div>
+
+
+
+
+
+
+        <div class="palette">
+
+ <!-- Team ----------------------------------------------------------------------------------------------------- Name -->
+
+<div class="flex flex-col md:flex-row items-center justify-between gap-4">
+  <!-- Left side with symbol and text -->
+  <div class="flex items-center w-full md:w-auto">
+    <span class="symbol" style="font-family: 'Racing Sans One', sans-serif; font-size: 18px; color: #1F2937;"> </span>
+    <span style="font-family: 'Racing Sans One', sans-serif; font-size: 18px; color: #1F2937; margin-left: 0.5rem;">Atlas LAX</span>
+  </div>
+</div>
+
+
+ <!-- END   -------------------------------------------------------------------------------------------------  Team Name -->
+            
+            <div class="text-top colorway-label" style="background-color: #000000; color: white; padding: 5px; border-radius: 18px;">Color Way-110</div>
+            <div class="color">
+                <img src="a110_ .jpg" alt=" ">
+            </div>
+            <div class="text-bottom">
+                <span style="font-size: 12px; color: #000000;">Black</span>
+                <span style="font-size: 12px; color: gray;">| 9163c | White | 187c </span>
+            </div>
+        </div>
+
+
+
+
+
+        <div class="palette">
+            
+
+ <!-- Team ----------------------------------------------------------------------------------------------------- Name -->
+
+<div class="flex flex-col md:flex-row items-center justify-between gap-4">
+  <!-- Left side with symbol and text -->
+  <div class="flex items-center w-full md:w-auto">
+    <span class="symbol" style="font-family: 'Racing Sans One', sans-serif; font-size: 18px; color: #1F2937;"> </span>
+    <span style="font-family: 'Racing Sans One', sans-serif; font-size: 18px; color: #1F2937; margin-left: 0.5rem;">Atlas LAX</span>
+  </div>
+</div>
+
+
+ <!-- END   -------------------------------------------------------------------------------------------------  Team Name -->
+            <div class="text-top colorway-label" style="background-color: #A6192E; color: white; padding: 5px; border-radius: 18px;">Color Way-111</div>
+            <div class="color">
+                <img src="a111_ .jpg" alt=" ">
+            </div>
+            <div class="text-bottom">
+                <span style="font-size: 12px; color: #A6192E;">187c</span>
+                <span style="font-size: 12px; color: gray;">| White </span>
+            </div>
+        </div>
+
+
+
+
+
+
+        <div class="palette">
+
+ <!-- Team ----------------------------------------------------------------------------------------------------- Name -->
+
+<div class="flex flex-col md:flex-row items-center justify-between gap-4">
+  <!-- Left side with symbol and text -->
+  <div class="flex items-center w-full md:w-auto">
+    <span class="symbol" style="font-family: 'Racing Sans One', sans-serif; font-size: 18px; color: #1F2937;"> </span>
+    <span style="font-family: 'Racing Sans One', sans-serif; font-size: 18px; color: #1F2937; margin-left: 0.5rem;">Atlas LAX</span>
+  </div>
+</div>
+
+
+ <!-- END   -------------------------------------------------------------------------------------------------  Team Name -->
+            
+            <div class="text-top colorway-label" style="background-color: #000000; color: white; padding: 5px; border-radius: 18px;">Color Way-112</div>
+            <div class="color">
+                <img src="a112_ .jpg" alt=" ">
+            </div>
+            <div class="text-bottom">
+                <span style="font-size: 12px; color: #000000;">Black</span>
+                <span style="font-size: 12px; color: gray;">| 187c </span>
+            </div>
+        </div>
+
+
+
+
+
+
+
+        <div class="palette">
+
+ <!-- Team ----------------------------------------------------------------------------------------------------- Name -->
+
+<div class="flex flex-col md:flex-row items-center justify-between gap-4">
+  <!-- Left side with symbol and text -->
+  <div class="flex items-center w-full md:w-auto">
+    <span class="symbol" style="font-family: 'Racing Sans One', sans-serif; font-size: 18px; color: #1F2937;"> </span>
+    <span style="font-family: 'Racing Sans One', sans-serif; font-size: 18px; color: #1F2937; margin-left: 0.5rem;">Atlas LAX</span>
+  </div>
+</div>
+
+
+ <!-- END   -------------------------------------------------------------------------------------------------  Team Name -->
+            
+            <div class="text-top colorway-label" style="background-color: #AF231B; color: white; padding: 5px; border-radius: 18px;">Color Way-113</div>
+            <div class="color">
+                <img src="a113_ .jpg" alt=" ">
+            </div>
+            <div class="text-bottom">
+                <span style="font-size: 12px; color: #AF231B;">2350c</span>
+                <span style="font-size: 12px; color: gray;">| White</span>
+            </div>
+        </div>
+
+
+
+
+        <div class="palette">
+
+ <!-- Team ----------------------------------------------------------------------------------------------------- Name -->
+
+<div class="flex flex-col md:flex-row items-center justify-between gap-4">
+  <!-- Left side with symbol and text -->
+  <div class="flex items-center w-full md:w-auto">
+    <span class="symbol" style="font-family: 'Racing Sans One', sans-serif; font-size: 18px; color: #1F2937;"> </span>
+    <span style="font-family: 'Racing Sans One', sans-serif; font-size: 18px; color: #1F2937; margin-left: 0.5rem;">Atlas LAX</span>
+  </div>
+</div>
+
+
+ <!-- END   -------------------------------------------------------------------------------------------------  Team Name -->
+            
+            <div class="text-top colorway-label" style="background-color: #6DABE4; color: white; padding: 5px; border-radius: 18px;">Color Way-114</div>
+            <div class="color">
+                <img src="a114_ .jpg" alt=" ">
+            </div>
+            <div class="text-bottom">
+                <span style="font-size: 12px; color: #6DABE4;">284c</span>
+                <span style="font-size: 12px; color: gray;">| White | Black </span>
+            </div>
+        </div>
+
+
+
+
+        <div class="palette">
+
+
+ <!-- Team ----------------------------------------------------------------------------------------------------- Name -->
+
+<div class="flex flex-col md:flex-row items-center justify-between gap-4">
+  <!-- Left side with symbol and text -->
+  <div class="flex items-center w-full md:w-auto">
+    <span class="symbol" style="font-family: 'Racing Sans One', sans-serif; font-size: 18px; color: #1F2937;"> </span>
+    <span style="font-family: 'Racing Sans One', sans-serif; font-size: 18px; color: #1F2937; margin-left: 0.5rem;">Atlas LAX</span>
+  </div>
+</div>
+
+
+ <!-- END   -------------------------------------------------------------------------------------------------  Team Name -->
+            
+            <div class="text-top colorway-label" style="background-color: #000000; color: white; padding: 5px; border-radius: 18px;">Color Way-115</div>
+            <div class="color">
+                <img src="a115_ .jpg" alt=" ">
+            </div>
+            <div class="text-bottom">
+                <span style="font-size: 12px; color: #000000;">Black</span>
+                <span style="font-size: 12px; color: gray;">| 123c | 286c  </span>
+            </div>
+        </div>
+
+
